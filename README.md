@@ -40,5 +40,5 @@ This project is created for educational purposes.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/expense_tracker_flutter.git
+   git clone https://github.com/Gtigerbd/assignment28.git
    
